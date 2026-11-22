@@ -1,0 +1,456 @@
+project_id,country,permeability_md,depth_ft,api_gravity,viscosity_cp,temperature_F,oil_saturation_pct,eor_method
+1,Usa,40,7100,22,20,153.0,1,Polymer
+2,Usa,33,5250,40,1,135.0,50,Polymer
+3,Usa,16,7900,30,3,150.0,75,Polymer
+4,Usa,550,700,35,6,80.0,64,Polymer
+5,Usa,471,4010,15,75,150.0,62,Polymer
+6,Usa,471,4100,15,75,150.0,63,Polymer
+7,Usa,525,4200,16,75,150.0,70,Polymer
+8,Usa,471,4010,15,75,150.0,62,Polymer
+9,Usa,471,4050,15,75,150.0,65,Polymer
+10,Usa,2,9460,38,2,190.0,1,Polymer
+11,Usa,10,6300,43,75,136.0,62,Polymer
+12,Usa,14,8200,36,1,179.0,59,Polymer
+13,Usa,86,1975,40,2,100.0,50,Polymer
+14,Usa,173,7150,20,17,150.0,76,Polymer
+15,Canada,85,4500,23,10,132.0,55,Polymer
+16,China,600,3268,32,9,113.0,61,Polymer
+17,China,198,1063,28,17,74.0,62,Polymer
+18,China,580,3212,33,10,108.0,70,Polymer
+19,China,622,3215,33,10,108.0,70,Polymer
+20,China,173,4568,33,7,162.0,68,Polymer
+21,China,180,1311,32,32,87.0,73,Polymer
+22,China,908,4626,30,17,133.0,65,Polymer
+23,China,875,3911,16,46,154.0,69,Polymer
+24,China,901,3921,14,80,149.0,71,Polymer
+25,China,875,3911,16,46,158.0,69,Polymer
+26,China,412,3238,21,19,127.0,60,Polymer
+27,China,538,3346,21,22,123.0,60,Polymer
+174,Usa,35,6200,40,1,145.0,37,CO2
+175,Usa,32,4200,34,1,104.0,50,CO2
+176,Usa,4,5500,40,1,101.0,50,CO2
+177,Usa,2,4500,33,1,106.0,50,CO2
+178,Usa,6,5100,33,1,110.0,54,CO2
+179,Canada,30,4600,20,2,95.0,50,CO2
+180,Canada,75,4600,30,3,149.0,45,CO2
+181,Canada,54,8300,41,0,225.0,30,CO2
+182,Canada,10,4655,28,3,140.0,45,CO2
+183,Canada,50,8200,42,1,206.0,50,CO2
+184,Canada,500,4900,42,1,133.0,38,CO2
+185,Canada,20,5300,41,1,128.0,50,CO2
+168,Usa,4,6500,40,1,113.0,30,CO2
+169,Usa,170,6700,44,0,139.0,35,CO2
+170,Usa,18,5700,42,2,129.0,40,CO2
+171,Usa,48,6500,44,2,142.0,43,CO2
+172,Usa,37,2600,36,2,83.0,27,CO2
+173,Usa,50,6200,40,1,145.0,37,CO2
+160,Usa,4,4900,34,2,98.0,50,CO2
+161,Usa,2,7850,28,2,134.0,75,CO2
+162,Usa,8,5250,34,1,105.0,55,CO2
+163,Usa,8,5200,33,1,5.0,51,CO2
+164,Usa,5,5100,34,1,110.0,49,CO2
+165,Usa,2,5100,32,2,105.0,56,CO2
+166,Usa,3,4900,34,2,98.0,50,CO2
+167,Usa,9,8000,40,0,122.0,35,CO2
+149,Usa,5,5300,44,0,104.0,49,CO2
+150,Usa,4,4200,34,1,91.0,40,CO2
+151,Usa,5,7500,40,1,123.0,38,CO2
+152,Usa,15,4200,35,1,102.0,35,CO2
+153,Usa,4,5200,43,1,104.0,43,CO2
+154,Usa,12,6300,39,1,125.0,89,CO2
+155,Usa,70,6600,43,0,125.0,39,CO2
+156,Usa,4,5000,31,2,108.0,47,CO2
+157,Usa,5,4950,31,2,105.0,40,CO2
+158,Usa,4,4950,32,2,105.0,47,CO2
+159,Usa,4,4900,32,2,105.0,42,CO2
+38,Usa,4,5500,32,1,104.0,61,CO2
+39,Usa,4,5500,32,1,104.0,50,CO2
+40,Usa,4,4000,34,2,86.0,55,CO2
+41,Usa,70,6200,30,3,115.0,59,CO2
+42,Usa,50,10500,39,0,250.0,17,CO2
+43,Usa,20,10365,38,1,245.0,15,CO2
+44,Usa,31,5000,35,1,178.0,50,CO2
+45,Usa,4,5400,35,1,181.0,50,CO2
+46,Usa,10,7000,35,1,105.0,50,CO2
+47,Usa,20,6000,35,1,163.0,50,CO2
+48,Usa,55,5700,44,0,154.0,60,CO2
+49,Usa,30,2680,40,1,82.0,49,CO2
+50,Usa,4,8000,40,1,123.0,50,CO2
+51,Usa,4,4550,34,2,98.0,50,CO2
+52,Usa,4,4900,34,2,98.0,50,CO2
+53,Usa,11,4500,38,1,101.0,70,CO2
+54,Usa,11,4500,38,1,101.0,70,CO2
+55,Usa,9,8000,40,0,122.0,35,CO2
+56,Usa,4,6500,40,0,105.0,50,CO2
+57,Usa,170,6700,44,0,139.0,35,CO2
+58,Usa,48,6500,44,2,142.0,43,CO2
+59,Usa,18,5700,42,2,129.0,40,CO2
+60,Usa,4,4700,32,2,104.0,36,CO2
+61,Usa,6,4950,33,1,105.0,41,CO2
+62,Usa,22,4550,38,1,101.0,36,CO2
+63,Usa,1000,9800,44,1,151.0,35,CO2
+64,Usa,64,2680,40,1,83.0,41,CO2
+65,Usa,5,3880,37,1,95.0,56,CO2
+66,Usa,6,3100,37,2,100.0,45,CO2
+67,Usa,6,3400,37,3,105.0,45,CO2
+68,Usa,770,10400,37,1,205.0,62,CO2
+69,Usa,245,9950,38,35,190.0,44,CO2
+70,Usa,2,5300,33,2,108.0,66,CO2
+71,Usa,2,5200,32,1,107.0,50,CO2
+72,Canada,500,5140,42,1,133.0,38,CO2
+73,Canada,500,5075,42,1,133.0,36,CO2
+74,Canada,500,5000,42,1,133.0,38,CO2
+75,Canada,500,5000,42,1,133.0,36,CO2
+76,Canada,500,5000,42,1,133.0,36,CO2
+78,Canada,51,4500,27,3,145.0,50,CO2
+79,Usa,30,5000,43,1,120.0,39,CO2
+80,Usa,75,1900,37,1,105.0,39,CO2
+81,Usa,30,1500,35,1,99.0,39,CO2
+82,Usa,16,9000,30,2,200.0,50,CO2
+83,Usa,6,4900,32,1,110.0,50,CO2
+84,Usa,3,5000,32,2,107.0,45,CO2
+85,Usa,70,6200,30,3,115.0,59,CO2
+86,Usa,63,7260,40,2,152.0,52,CO2
+87,Usa,63,7300,38,2,152.0,52,CO2
+88,Usa,10,6000,35,2,160.0,38,CO2
+89,Usa,4,4700,32,2,104.0,36,CO2
+90,Usa,6,4950,33,1,105.0,41,CO2
+91,Usa,22,4550,38,1,101.0,36,CO2
+92,Usa,11,4500,38,1,101.0,70,CO2
+93,Usa,11,4500,38,1,101.0,70,CO2
+94,Usa,50,5450,43,1,103.0,54,CO2
+95,Usa,50,5450,42,1,103.0,47,CO2
+96,Usa,10,5400,43,1,108.0,50,CO2
+97,Usa,50,5500,43,1,100.0,51,CO2
+98,Usa,5,5400,43,1,108.0,50,CO2
+99,Usa,50,5500,41,1,101.0,51,CO2
+100,Usa,5,5500,41,1,108.0,50,CO2
+101,Usa,50,5600,42,1,102.0,62,CO2
+37,Usa,65,4500,33,1,242.0,50,CO2
+19,Usa,90,5100,32,2,250.0,56,CO2
+104,Usa,2025,10100,40,0,212.0,60,CO2
+27,Usa,75,5500,40,1,248.0,50,CO2
+28,Usa,40,5400,30,3,244.0,55,CO2
+29,Usa,200,5600,41,1,250.0,50,CO2
+30,Usa,90,4300,29,6,250.0,50,CO2
+31,Usa,90,6100,36,1,250.0,37,CO2
+32,Usa,273,6300,39,1,234.0,89,CO2
+33,Usa,171,6600,40,1,228.0,39,CO2
+34,Usa,60,4900,32,1,250.0,50,CO2
+35,Usa,75,5000,32,2,248.0,45,CO2
+36,Usa,289,5100,33,1,164.0,54,CO2
+115,Usa,4,4000,34,2,86.0,55,CO2
+116,Usa,5,5600,41,1,125.0,50,CO2
+117,Usa,20,4300,29,6,97.0,50,CO2
+118,Usa,4,5500,32,1,104.0,61,CO2
+119,Usa,4,5500,32,1,104.0,45,CO2
+120,Usa,32,4900,36,2,105.0,50,CO2
+121,Usa,4,3000,36,1,105.0,50,CO2
+122,Usa,8,4852,35,1,98.0,50,CO2
+123,Usa,62,5300,35,1,104.0,50,CO2
+124,Usa,62,5500,35,1,104.0,50,CO2
+125,Usa,62,5500,35,1,104.0,50,CO2
+126,Usa,62,5500,35,1,104.0,50,CO2
+127,Usa,62,5500,35,1,104.0,50,CO2
+128,Usa,19,6700,39,1,135.0,63,CO2
+129,Usa,31,5000,35,1,178.0,50,CO2
+130,Usa,4,5400,35,1,181.0,50,CO2
+131,Usa,10,7000,35,1,105.0,50,CO2
+132,Usa,20,6000,35,1,163.0,50,CO2
+133,Usa,5,6400,35,1,170.0,50,CO2
+134,Usa,44,9400,38,1,148.0,50,CO2
+135,Usa,50,9400,38,1,150.0,50,CO2
+136,Usa,85,2900,40,3,99.0,35,CO2
+137,Usa,30,2680,40,1,82.0,49,CO2
+138,Usa,5,4950,31,2,105.0,40,CO2
+139,Usa,4,5800,30,3,109.0,50,CO2
+140,Usa,5,4800,32,2,102.0,50,CO2
+141,Usa,2,4900,31,2,105.0,48,CO2
+142,Usa,6,6800,40,1,130.0,46,CO2
+143,Usa,24,4500,41,1,97.0,40,CO2
+144,Usa,4,4950,31,2,105.0,38,CO2
+145,Usa,3,5400,30,3,101.0,55,CO2
+146,Usa,4,5040,34,2,105.0,47,CO2
+147,Usa,2,4900,34,1,108.0,45,CO2
+148,Usa,2,5400,42,0,104.0,60,CO2
+49,Usa,400,8800,27,1,82.0,50,Hydrocarbon
+50,Usa,130,8800,26,1,123.0,45,Hydrocarbon
+51,Usa,50,6700,24,2,98.0,80,Hydrocarbon
+52,Usa,100,6600,26,2,98.0,80,Hydrocarbon
+13,Canada,54,9850,57,0,110.0,98,Hydrocarbon
+14,Canada,137,9541,43,0,98.0,80,Hydrocarbon
+55,Usa,200,8800,27,1,122.0,70,Hydrocarbon
+56,Usa,1250,10000,38,1,180.0,80,Hydrocarbon
+57,Usa,1000,11000,38,1,139.0,80,Hydrocarbon
+58,Usa,260,6000,24,0,142.0,75,Hydrocarbon
+59,Usa,20,5200,37,1,129.0,65,Hydrocarbon
+60,Usa,20,7000,40,0,104.0,80,Hydrocarbon
+53,Usa,150,4500,19,64,101.0,65,Hydrocarbon
+54,Usa,150,4900,19,64,101.0,65,Hydrocarbon
+15,Canada,2020,9469,44,0,104.0,82,Hydrocarbon
+16,Canada,1060,9415,41,0,104.0,88,Hydrocarbon
+17,Canada,540,9333,41,0,148.0,93,Hydrocarbon
+18,Canada,3100,9332,43,0,150.0,84,Hydrocarbon
+19,Canada,2400,9331,45,0,105.0,87,Hydrocarbon
+20,Canada,9421,41,41,0,97.0,91,Hydrocarbon
+21,Canada,6500,38,38,1,180.0,93,Hydrocarbon
+22,Canada,4160,37,37,1,160.0,90,Hydrocarbon
+23,Canada,4330,40,40,1,248.0,88,Hydrocarbon
+24,Canada,4040,38,38,1,130.0,74,Hydrocarbon
+25,Canada,5249,33,33,0,108.0,33,Hydrocarbon
+26,Canada,9200,41,41,0,108.0,80,Hydrocarbon
+27,Canada,6000,38,38,1,101.0,52,Hydrocarbon
+28,Canada,5932,39,39,0,101.0,91,Hydrocarbon
+29,Canada,6085,37,37,1,125.0,95,Hydrocarbon
+30,Canada,6151,39,39,0,97.0,92,Hydrocarbon
+31,Canada,6210,39,39,1,147.0,92,Hydrocarbon
+32,Canada,6380,43,43,0,125.0,90,Hydrocarbon
+33,Canada,6310,40,40,0,125.0,90,Hydrocarbon
+34,Canada,6053,42,42,0,110.0,87,Hydrocarbon
+35,Canada,6400,43,43,0,107.0,67,Hydrocarbon
+36,Canada,6330,44,44,0,110.0,67,Hydrocarbon
+37,Canada,6000,48,48,0,106.0,50,Hydrocarbon
+38,Canada,5500,39,39,0,104.0,45,Hydrocarbon
+39,Canada,5500,39,39,0,104.0,92,Hydrocarbon
+40,Canada,6200,40,40,0,86.0,80,Hydrocarbon
+41,Canada,1130,7500,34,1,115.0,70,Hydrocarbon
+42,Canada,92,6981,40,0,250.0,46,Hydrocarbon
+43,Canada,200,5500,41,1,245.0,30,Hydrocarbon
+44,Canada,251,9500,34,1,178.0,56,Hydrocarbon
+45,Libya,226,8849,39,0,181.0,80,Hydrocarbon
+5,Usa,1000,11000,38,1,106.0,80,Hydrocarbon
+47,Venezuela,505,13750,27,0,163.0,80,Hydrocarbon
+48,Venezuela,505,13750,30,0,154.0,80,Hydrocarbon
+2,Usa,0,10000,38,0,190.0,76,Nitrogen
+3,Usa,10,18500,54,0,325.0,80,Nitrogen
+3,Trinidad,150,2600,17,32,120.0,60,CO2
+4,Trinidad,300,4200,25,6,130.0,44,CO2
+5,Trinidad,150,2025,17,76,120.0,55,CO2
+6,Trinidad,36,2400,29,5,120.0,53,CO2
+7,Turkey,58,4265,13,592,129.0,78,CO2
+8,Usa,30,1150,35,1,99.0,32,CO2
+10,Usa,1000,8500,11,6,198.0,44,CO2
+11,Usa,175,1400,30,6,82.0,75,CO2
+2,Canada,1000,6000,48,0,180.0,50,Hydrocarbon
+3,Usa,40,7000,22,4,170.0,75,Hydrocarbon
+2,Usa,2800,4600,24,4,168.0,52,Nitrogen
+3,Usa,175,1400,30,6,82.0,52,Nitrogen
+4,Usa,3,12000,46,0,185.0,52,Nitrogen
+5,Usa,4,11500,46,0,174.0,52,Nitrogen
+6,Usa,10,18500,54,0,325.0,45,Nitrogen
+50,Usa,2800,960,14,2000,90.0,59,Steam Injection
+51,Usa,3389,775,14,2000,90.0,55,Steam Injection
+52,Usa,3000,850,14,2000,90.0,60,Steam Injection
+53,Usa,3000,800,14,2000,90.0,55,Steam Injection
+54,Usa,3000,1000,14,2000,90.0,55,Steam Injection
+55,Usa,1100,1300,14,1500,150.0,58,Steam Injection
+56,Usa,2000,1800,12,7000,90.0,60,Steam Injection
+57,Usa,2400,1600,13,6000,100.0,50,Steam Injection
+58,Usa,1000,1200,13,1000,90.0,46,Steam Injection
+59,Usa,2400,1500,13,5700,100.0,49,Steam Injection
+60,Usa,1000,2500,12,2300,100.0,50,Steam Injection
+61,Usa,2300,1700,13,6000,100.0,44,Steam Injection
+62,Usa,2400,1500,13,5700,100.0,49,Steam Injection
+63,Usa,2000,1250,13,450,95.0,60,Steam Injection
+64,Usa,175,1400,30,6,82.0,60,Steam Injection
+65,Usa,2800,1000,14,2000,90.0,50,Steam Injection
+66,Usa,15,1400,12,2000,110.0,65,Steam Injection
+67,Usa,1500,700,12,2921,100.0,65,Steam Injection
+68,Usa,3700,1100,11,10000,110.0,57,Steam Injection
+69,Usa,1146,700,11,10000,100.0,54,Steam Injection
+70,Usa,2000,900,12,400,150.0,60,Steam Injection
+71,Usa,5317,1000,11,440,150.0,61,Steam Injection
+72,Usa,1450,1000,12,350,150.0,60,Steam Injection
+73,Usa,3250,1400,14,1525,95.0,50,Steam Injection
+74,Usa,1000,2000,13,2000,80.0,70,Steam Injection
+75,Usa,4000,1000,13,4060,90.0,50,Steam Injection
+76,Usa,2800,1000,13,35,220.0,60,Steam Injection
+77,Usa,3000,1500,12,4000,100.0,60,Steam Injection
+78,Usa,2250,1500,12,5000,100.0,60,Steam Injection
+79,Usa,1300,1500,11,5000,100.0,50,Steam Injection
+80,Usa,5500,1900,11,1200,135.0,58,Steam Injection
+81,Usa,1000,2300,13,300,125.0,58,Steam Injection
+82,Usa,1500,825,13,150000,80.0,55,Steam Injection
+83,Usa,2000,600,13,5000,78.0,63,Steam Injection
+84,Usa,4000,1200,13,8000,90.0,55,Steam Injection
+85,Usa,2500,900,13,7000,84.0,70,Steam Injection
+86,Usa,2000,800,13,8000,90.0,60,Steam Injection
+87,Usa,2500,800,14,450,130.0,63,Steam Injection
+88,Usa,1500,2500,14,300,123.0,55,Steam Injection
+89,Usa,1500,2500,13,300,125.0,55,Steam Injection
+90,Usa,2500,1500,12,11000,95.0,60,Steam Injection
+91,Canada,4000,1476,13,13000,66.0,90,Steam Injection
+92,Canada,4000,1924,12,32000,68.0,75,Steam Injection
+93,Canada,2000,1600,11,115015,60.0,60,Steam Injection
+94,Canada,6,500,8,4990000,45.0,85,Steam Injection
+95,Canada,7500,1640,12,25000,70.0,85,Steam Injection
+96,Canada,1500,1509,10,100000,55.0,70,Steam Injection
+97,Canada,1050,1800,9,100000,60.0,80,Steam Injection
+98,Canada,4000,2430,12,2000,80.0,82,Steam Injection
+99,Canada,2500,1600,11,102500,70.0,82,Steam Injection
+100,China,5000,3750,15,9200,131.0,65,Steam Injection
+101,China,3750,3009,15,25000,150.0,60,Steam Injection
+102,China,2200,5360,18,1500,80.0,65,Steam Injection
+103,China,2250,1198,21,12800,66.0,65,Steam Injection
+104,China,4243,1070,18,71500,129.0,69,Steam Injection
+105,China,1601,3345,13,16950,124.0,65,Steam Injection
+106,China,1030,3903,17,13260,18.5,65,Steam Injection
+107,China,1683,4182,12,7500,104.0,65,Steam Injection
+108,China,475,2745,14,7350,66.0,65,Steam Injection
+109,China,3170,820,20,2000,66.0,65,Steam Injection
+110,China,2290,754,20,2240,65.0,65,Steam Injection
+111,China,1730,853,20,4000,66.0,65,Steam Injection
+112,China,3000,984,20,7200,66.0,65,Steam Injection
+113,China,1175,934,20,29700,66.0,65,Steam Injection
+114,China,2800,935,20,43200,66.0,65,Steam Injection
+115,Colombia,1200,2100,13,2965,108.0,57,Steam Injection
+116,Colombia,1200,2100,13,2965,108.0,57,Steam Injection
+117,Germany,800,1900,25,120,95.0,78,Steam Injection
+118,Germany,800,2460,27,120,95.0,60,Steam Injection
+119,Germany,1150,2461,27,120,95.0,60,Steam Injection
+120,Germany,1100,2130,27,120,96.0,65,Steam Injection
+121,Germany,1150,2265,25,120,96.0,60,Steam Injection
+122,Germany,1050,1900,25,120,100.0,60,Steam Injection
+123,Germany,5000,2650,25,175,100.0,60,Steam Injection
+124,Germany,5500,2800,25,175,100.0,74,Steam Injection
+125,Germany,5500,2600,25,175,100.0,88,Steam Injection
+126,Germany,5500,2650,25,175,100.0,83,Steam Injection
+127,Germany,5500,2350,25,175,100.0,86,Steam Injection
+128,Indonesia,1550,625,22,157,101.0,62,Steam Injection
+129,Indonesia,2000,340,22,400,100.0,60,Steam Injection
+130,Trinidad,300,2400,11,5500,100.0,75,Steam Injection
+131,Trinidad,95,1400,17,175,110.0,58,Steam Injection
+132,Trinidad,500,1100,11,5500,104.0,75,Steam Injection
+133,Trinidad,265,2100,17,200,110.0,75,Steam Injection
+134,Trinidad,205,1200,19,32,105.0,57,Steam Injection
+135,Trinidad,430,1500,17,160,105.0,67,Steam Injection
+136,Trinidad,270,1100,14,250,110.0,60,Steam Injection
+137,Trinidad,340,1100,15,140,110.0,70,Steam Injection
+138,Trinidad,275,1100,14,220,98.0,70,Steam Injection
+139,Trinidad,19,2000,20,150,105.0,65,Steam Injection
+140,Trinidad,250,1500,16,550,102.0,70,Steam Injection
+141,Trinidad,250,1700,16,550,102.0,70,Steam Injection
+142,Trinidad,250,1200,21,160,98.0,70,Steam Injection
+143,Trinidad,250,2100,19,185,105.0,65,Steam Injection
+144,Trinidad,350,525,14,1100,100.0,70,Steam Injection
+145,Venezuela,6600,2650,9,376,131.0,88,Steam Injection
+146,Venezuela,5000,3050,9,351,136.0,83,Steam Injection
+147,Venezuela,5800,2850,10,370,135.0,82,Steam Injection
+148,Venezuela,4500,3150,10,560,140.0,80,Steam Injection
+149,Venezuela,10000,2000,9,5500,125.0,80,Steam Injection
+150,Venezuela,2500,3260,14,138,130.0,80,Steam Injection
+151,Venezuela,5000,3600,9,1952,132.0,85,Steam Injection
+152,Venezuela,5000,3600,9,1952,132.0,85,Steam Injection
+153,Venezuela,8000,3350,10,727,139.0,82,Steam Injection
+154,Venezuela,1500,3400,14,185,135.0,85,Steam Injection
+155,Venezuela,4000,2690,12,600,128.0,84,Steam Injection
+156,Venezuela,1250,2537,15,93,119.0,72,Steam Injection
+157,Venezuela,2000,2300,11,3500,117.0,75,Steam Injection
+158,Venezuela,2000,2850,15,2500,125.0,80,Steam Injection
+159,Venezuela,2000,2300,11,3500,117.0,75,Steam Injection
+160,Venezuela,2000,2850,15,2500,122.0,87,Steam Injection
+161,Venezuela,2000,2300,12,7000,115.0,75,Steam Injection
+162,Venezuela,2000,2300,11,3500,118.0,75,Steam Injection
+163,Venezuela,2000,2850,15,580,126.0,87,Steam Injection
+164,Venezuela,2000,2300,11,20000,125.0,75,Steam Injection
+165,Venezuela,575,2000,13,500,117.0,85,Steam Injection
+166,Venezuela,2500,1500,12,1000,108.0,85,Steam Injection
+167,Venezuela,1300,1746,14,13000,100.0,85,Steam Injection
+168,Venezuela,3000,1250,12,3000,104.0,85,Steam Injection
+169,Venezuela,2000,1200,12,750,104.0,85,Steam Injection
+170,Venezuela,3000,872,12,5000,104.0,81,Steam Injection
+171,Venezuela,2000,1250,12,7500,106.0,85,Steam Injection
+172,Venezuela,780,1700,12,2000,111.0,85,Steam Injection
+173,Venezuela,1300,1250,10,12000,102.0,85,Steam Injection
+174,Venezuela,2000,1000,11,10000,95.0,85,Steam Injection
+175,Venezuela,780,1597,12,1000,111.0,85,Steam Injection
+176,Venezuela,2500,760,10,17500,110.0,85,Steam Injection
+177,Venezuela,1400,1750,13,750,113.0,85,Steam Injection
+178,Venezuela,675,1250,13,1300,104.0,85,Steam Injection
+179,Venezuela,675,1209,13,5000,123.0,85,Steam Injection
+180,Venezuela,1000,1400,13,1000,110.0,85,Steam Injection
+181,Venezuela,1000,1746,13,4100,110.0,85,Steam Injection
+182,Venezuela,1000,1746,13,1200,110.0,85,Steam Injection
+183,Usa,2000,850,14,2750,95.0,75,Steam Injection
+184,Usa,2500,1400,28,26,110.0,45,Steam Injection
+185,Usa,1350,1238,13,6000,91.0,60,Steam Injection
+186,Usa,900,825,10,19500,84.0,55,Steam Injection
+187,Usa,2000,1000,13,1500,100.0,65,Steam Injection
+188,Usa,1150,350,14,3250,95.0,55,Steam Injection
+189,Usa,2000,200,13,2250,82.0,60,Steam Injection
+190,Usa,1500,600,12,32000,83.0,60,Steam Injection
+191,Usa,2500,1000,12,2000,101.0,70,Steam Injection
+192,Usa,2350,1150,13,3250,93.0,63,Steam Injection
+193,Usa,4500,1300,13,4000,90.0,60,Steam Injection
+194,Usa,3000,1100,11,10000,130.0,75,Steam Injection
+195,Usa,300,1100,13,3500,104.0,65,Steam Injection
+196,Usa,3150,1000,13,6000,90.0,60,Steam Injection
+197,Usa,5,550,13,1000,90.0,75,Steam Injection
+198,Usa,2000,2300,12,1000,130.0,55,Steam Injection
+199,Usa,2260,2100,11,3000,125.0,55,Steam Injection
+200,Usa,3500,800,10,10000,90.0,60,Steam Injection
+201,Usa,3000,1300,14,4000,85.0,70,Steam Injection
+202,Usa,2000,1000,13,8000,80.0,70,Steam Injection
+203,Usa,1500,1800,13,10000,90.0,60,Steam Injection
+204,Usa,1500,1700,13,8000,80.0,60,Steam Injection
+205,Usa,4000,1200,13,2800,110.0,50,Steam Injection
+206,Usa,1,800,14,3000,90.0,65,Steam Injection
+207,Usa,1,1100,14,4000,90.0,60,Steam Injection
+208,Usa,800,1400,14,4000,90.0,65,Steam Injection
+209,Usa,5,1500,13,2000,110.0,40,Steam Injection
+210,Usa,2700,1200,12,5200,100.0,53,Steam Injection
+211,Usa,3000,1500,12,4000,100.0,60,Steam Injection
+212,Usa,1300,1500,11,5000,100.0,50,Steam Injection
+213,Usa,2250,1500,12,5000,100.0,60,Steam Injection
+214,Usa,1510,1640,14,3720,100.0,44,Steam Injection
+215,Usa,2000,1000,13,4000,90.0,50,Steam Injection
+216,Usa,6700,1900,12,1200,135.0,46,Steam Injection
+217,Usa,100,1000,16,20,54.0,85,Steam Injection
+218,Usa,100,800,20,20,54.0,85,Steam Injection
+219,Usa,2000,1250,13,450,95.0,60,Steam Injection
+220,Usa,850,1150,16,345,100.0,80,Steam Injection
+221,Usa,1250,450,11,20000,80.0,85,Steam Injection
+222,Usa,2800,1000,14,2000,90.0,50,Steam Injection
+223,Usa,2000,1800,15,1525,95.0,45,Steam Injection
+224,Usa,2500,2000,13,2000,80.0,50,Steam Injection
+225,Usa,1500,1400,12,3000,100.0,65,Steam Injection
+226,Usa,1000,2000,13,3000,80.0,70,Steam Injection
+227,Usa,1000,2300,13,300,125.0,58,Steam Injection
+228,Canada,3000,1600,11,170000,60.0,60,Steam Injection
+229,Canada,2000,1350,10,75000,60.0,70,Steam Injection
+230,Canada,3000,1800,8,220000,63.0,60,Steam Injection
+231,Canada,1050,1800,8,100000,62.0,80,Steam Injection
+233,Brazil,200,2460,21,500,122.0,60,Steam Injection
+234,Brazil,3000,1480,15,2500,100.0,60,Steam Injection
+235,Brazil,4000,1150,15,1700,100.0,60,Steam Injection
+236,Brazil,1250,2300,13,825,124.0,76,Steam Injection
+237,Germany,900,2600,25,175,100.0,50,Steam Injection
+238,Germany,900,2600,25,175,100.0,50,Steam Injection
+239,Germany,900,2600,25,175,100.0,50,Steam Injection
+240,Germany,900,2600,25,175,100.0,50,Steam Injection
+241,Germany,900,2600,25,175,100.0,50,Steam Injection
+242,Indonesia,1600,550,22,350,100.0,62,Steam Injection
+243,Indonesia,1600,350,22,350,100.0,60,Steam Injection
+244,Trinidad,750,1025,17,5000,97.0,60,Steam Injection
+245,Trinidad,300,1700,13,550,100.0,75,Steam Injection
+246,Trinidad,300,1700,13,550,100.0,75,Steam Injection
+49,Usa,2800,960,14,2000,90.0,59,Steam Injection
+6,Usa,950,5000,10,1060,185.0,63,Combustion
+7,Usa,2250,1700,12,2770,110.0,70,Combustion
+8,Canada,1265,2900,18,70,110.0,66,Combustion
+9,Canada,930,2900,18,70,110.0,62,Combustion
+10,Canada,930,2900,18,70,110.0,70,Combustion
+11,India,11500,3440,16,125,158.0,70,Combustion
+12,India,11500,3440,14,550,158.0,80,Combustion
+13,Usa,15,9500,38,2,230.0,52,Combustion
+14,Usa,10,9500,33,2,215.0,50,Combustion
+15,Usa,10,9000,33,2,215.0,55,Combustion
+16,Usa,10,8450,31,2,215.0,55,Combustion
+17,Usa,10,8450,32,2,215.0,55,Combustion
+18,Usa,10,8450,31,2,215.0,55,Combustion
+19,Usa,10,9000,33,2,215.0,55,Combustion
+20,Usa,10,9200,33,2,220.0,50,Combustion
+21,Usa,10,8800,33,1,200.0,75,Combustion
+22,Usa,10,8800,33,1,200.0,85,Combustion
+23,Usa,10,8300,33,1,200.0,83,Combustion
+24,Usa,650,400,19,660,215.0,94,Combustion

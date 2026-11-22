@@ -1,0 +1,8 @@
+numpy
+scipy
+pandas
+matplotlib
+scikit-learn
+openpyxl
+jupyter
+shap   # optional, for SHAP plots as in the course notebooks
